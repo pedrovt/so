@@ -1,0 +1,5 @@
+In C, messages written using the printf function are sent to the standard output, not the error output. Therefore, and since the standard output is a line buffer, we can't conclude if a certain error is before or after the said messages
+
+Bash is a programming language where instructions are commands
+
+See \e[31;5

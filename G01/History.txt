@@ -1,0 +1,271 @@
+less
+man less 
+man head
+ll
+wc .bashrc
+man sed
+man tr
+man stat
+stat .bashrc
+echo hello > z
+cat z
+echo hello2 >> z
+cat z
+cat zzz
+tty
+cat /etc/passwd
+cat /etc/passwd > zzzz
+cat zzzz
+cat zzzz > /dev/pts/3 > /dev/pts/4
+cat zzdwzz > /dev/pts/3 2> /dev/pts/4
+rm zzz
+rm -f zzz
+cat zzz > err
+more err
+cat zzz > err 2>&1
+cat err
+cat zzz > err 2>&1
+clear
+rm -f zzz
+cat zzz > err
+cat zzz > err 2>&1
+cat er
+cat err
+cat zzz 2&1> err 
+clear
+rm -f zzz
+cat zzz > err
+cat zzz > err 2>&1
+cat err
+cat /etc/passwd 2> z
+cat /etc/passwd 2> z >&2
+wc
+wc --help
+clear
+mkdir dir1
+cd dir1
+touch --help
+touch a a1 a2 a3 a11 b b1 b11
+ll
+ls
+ls a*
+ls a?
+ls *
+touch c c11
+ls
+ls [ac]
+ls [a-c]
+ls [a-c]?
+ls [ab]*
+echo a*
+echo a\*
+x = abc
+x=abc
+xx=304
+echo x
+echo $x
+echo $xx
+echo ${xx}
+echo ${x}x
+z=a*
+echo z*
+echo $z
+ls $z
+echo $z
+echo "$z"
+echo '$z'
+x=0123456789
+echo $x
+echo ${x:2:4}
+gedit scrip
+mv scrip script
+./script
+script
+chmod 777 script
+./script
+./script y a bb ccc dddd eeeee
+y() { echo $# # the number of arguments; echo $1 # the first argument; echo $2 # the second argument; echo $* # the list of all arguments; echo $@ # idem; echo "$*" # idem; echo "$@" # idem; }
+y a bb ccc dddd eeeee
+y a "b b" ccc "dd dd" eeeee
+{ ls; echo ========================; ls; } > z
+cat z
+rm z
+( ls; echo ========================; ls; ) > z
+cat z
+more /etc/passwd
+cat /etc/passwd | less
+clear
+cat /etc/passwd
+clear
+zzz=abc
+echo $zzz
+{ echo -e "Same bash instance\n"; zzz=xpto; echo $zzz; }
+echo $zzz
+echo "======"
+zzz=abc
+echo $zzz
+( echo -e "New bash instance\n"; zzz=xpto; echo $zzz; )
+echo $zzz
+ls
+echo $?
+rm -f zzz # to guarantee file zzz does not exist
+echo $?
+test -f zzz
+echo $?
+touch zzz # to guarantee file zzz exists
+test -f zzz
+echo $?
+test --help
+man test
+mkdir a
+mkdir asd
+cd asd
+touch [a-c]*
+ll
+touch [a-c]?
+ll
+touch
+touch --help
+touch zzz # to guarantee file zzz exists
+if test -f zzz; then echo "File zzz exists"; else echo "File zzz does not exist"; fi
+check() { if test -f $1; then echo -e "\e[33mFile zzz exists\e[0m"; else echo -e "\e[31mFile zzz does not exist\e[0m"; fi; }
+touch zzz # to guarantee file zzz exists
+check zzz
+rm -f zzz # to guarantee file zzz does not exist
+check zzz
+test
+man test 
+check() { if [ -f $1 ]; then echo -e "\e[33mFile zzz exists\e[0m"; else echo -e "\e[31mFile zzz does not exist\e[0m"; fi; }
+touch zzz # to guarantee file zzz exists
+check zzz
+rm -f zzz # to guarantee file zzz does not exist
+check zzz
+help
+help | grep for
+help | grep for NAME
+help | grep "for NAME"
+touch a{c..d}
+ll
+touch a{1c..3d}
+ll
+touch a{1c..3c}
+ll
+touch a"{c..d}"
+ll
+a{c..d}
+touch a1 a2 a77 abc b1 c12 ddd # create some files
+ls
+prefix="_a_"
+for f in a*; do echo "changing the name of \"$f\""; mv $f $prefix$f; done
+ls
+echo "Hello" 2>&1
+echo "Hello" 1>&2
+ll
+touch aa
+ll
+mkdir adsf
+cd adsf/
+cd ..
+man shift
+help
+shift
+shift --help
+f2() { while [ $# -gt 0 ]; do echo "==== $1 ====" > $1; shift; done; }
+f3() { until [ $# -eq 0 ]; do echo "==== $1 ====" > $1; shift; done; }
+rm -f abc xpto zzz # to guarantee they do not exist
+f2 abc xpto zzz
+cat xpto
+cat abc
+cat zzz
+f3 abc xpto zzz
+cat xpto
+cat abc
+cat zzz
+seq
+seq --help
+head --help 
+tail --help
+ls /tmp
+ll /tmp
+ll /tmp | tail -n + 2  | wc -l
+ll /tmp | tail -n +2  | wc -l
+ll /tmp
+cat /etc/passwd | tr -s -c 'a-zA-Z' '\n'
+cat /etc/passwd | tr -s -c 'a-zA-Z' '\n' | count
+cat /etc/passwd | tr -s -c 'a-zA-Z' '\n' | stat
+cat /etc/passwd | tr -s -c 'a-zA-Z' '\n' 
+cat xpto
+seq -w 100 -3 2 > xptos
+cat xptos
+touch xpto 
+mkdir -f xpto
+mkdir --help xpto
+f2() { while [ $# -gt 0 ]; do echo "==== $1 ====" > $1; shift; done; }
+f3() { until [ $# -eq 0 ]; do echo "==== $1 ====" > $1; shift; done; }
+rm -f abc xpto zzz # to guarantee they do not exist
+f2 abc xpto zzz
+cat xpto
+cat abc
+cat zzz
+f3 abc xpto zzz
+cat xpto
+cat abc
+cat zzz
+vi myscript
+bash myscript
+bash myscript xpto abc for testing
+rm -f abc # to guarantee it does not exist
+bash myscript abc
+# create a file for testing
+seq -w 100 -3 2 > xpto
+bash myscript xpto
+chmod +x myscript
+./myscript xpto
+a[1]=aaa
+echo ${a[1]}
+declare -a a[2]=bbb # can also be used
+a[4]=ddd
+a[2+3]=eee # integer arithmetic expression are allowed
+echo ${a[*]} # the list of elements in the array
+echo ${#a[*]} # the number of elements in the array
+echo ${!a[*]} # the list of indices used in the array
+# iterate through the list of elements
+for v in ${a[*]}
+do
+echo $v
+done
+# iterate through the list of indices
+for i in ${!a[*]}
+do
+echo "a[$i] = ${a[$i]}"
+done
+a[1]=aaa
+echo ${a[1]}
+declare -a a[2]=bbb # can also be used
+a[4]=ddd
+a[2+3]=eee # integer arithmetic expression are allowed
+echo ${a[*]} # the list of elements in the array
+echo ${#a[*]} # the number of elements in the array
+echo ${!a[*]} # the list of indices used in the array
+# iterate through the list of elements
+for v in ${a[*]}
+do
+echo $v
+done
+# iterate through the list of indices
+for i in ${!a[*]}
+do
+echo "a[$i] = ${a[$i]}"
+done
+declare -A arr
+arr["homem"]=man
+arr["papel"]=paper
+arr["ola"]=hello
+arr["licao"]=lesson
+echo ${arr[*]} # the list of elements in the array
+echo ${#arr[*]} # the number of elements in the array
+echo ${!arr[*]} # the list of indices used in the array
+for i in ${!arr[*]}
+do
+echo "The translation of \"$i\" is \"${arr[$i]}\""
+done
