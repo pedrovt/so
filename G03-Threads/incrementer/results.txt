@@ -1,0 +1,200 @@
+Launching 5 threads, each one performing 1000 increments
+final value = 3664
+Launching 5 threads, each one performing 1000 increments
+final value = 3550
+Launching 5 threads, each one performing 1000 increments
+final value = 3548
+Launching 5 threads, each one performing 1000 increments
+final value = 3566
+Launching 5 threads, each one performing 1000 increments
+final value = 3605
+Launching 5 threads, each one performing 1000 increments
+final value = 3614
+Launching 5 threads, each one performing 1000 increments
+final value = 3592
+Launching 5 threads, each one performing 1000 increments
+final value = 3591
+Launching 5 threads, each one performing 1000 increments
+final value = 3654
+Launching 5 threads, each one performing 1000 increments
+final value = 3642
+Launching 5 threads, each one performing 1000 increments
+final value = 3556
+Launching 5 threads, each one performing 1000 increments
+final value = 3583
+Launching 5 threads, each one performing 1000 increments
+final value = 3624
+Launching 5 threads, each one performing 1000 increments
+final value = 3561
+Launching 5 threads, each one performing 1000 increments
+final value = 3586
+Launching 5 threads, each one performing 1000 increments
+final value = 3691
+Launching 5 threads, each one performing 1000 increments
+final value = 3514
+Launching 5 threads, each one performing 1000 increments
+final value = 3713
+Launching 5 threads, each one performing 1000 increments
+final value = 3566
+Launching 5 threads, each one performing 1000 increments
+final value = 3617
+Launching 5 threads, each one performing 1000 increments
+final value = 3572
+Launching 5 threads, each one performing 1000 increments
+final value = 3550
+Launching 5 threads, each one performing 1000 increments
+final value = 3705
+Launching 5 threads, each one performing 1000 increments
+final value = 3742
+Launching 5 threads, each one performing 1000 increments
+final value = 3534
+Launching 5 threads, each one performing 1000 increments
+final value = 3454
+Launching 5 threads, each one performing 1000 increments
+final value = 3623
+Launching 5 threads, each one performing 1000 increments
+final value = 3619
+Launching 5 threads, each one performing 1000 increments
+final value = 3573
+Launching 5 threads, each one performing 1000 increments
+final value = 3550
+Launching 5 threads, each one performing 1000 increments
+final value = 3586
+Launching 5 threads, each one performing 1000 increments
+final value = 3599
+Launching 5 threads, each one performing 1000 increments
+final value = 3582
+Launching 5 threads, each one performing 1000 increments
+final value = 3607
+Launching 5 threads, each one performing 1000 increments
+final value = 3669
+Launching 5 threads, each one performing 1000 increments
+final value = 3530
+Launching 5 threads, each one performing 1000 increments
+final value = 3556
+Launching 5 threads, each one performing 1000 increments
+final value = 3599
+Launching 5 threads, each one performing 1000 increments
+final value = 3573
+Launching 5 threads, each one performing 1000 increments
+final value = 3640
+Launching 5 threads, each one performing 1000 increments
+final value = 3535
+Launching 5 threads, each one performing 1000 increments
+final value = 3575
+Launching 5 threads, each one performing 1000 increments
+final value = 3531
+Launching 5 threads, each one performing 1000 increments
+final value = 3597
+Launching 5 threads, each one performing 1000 increments
+final value = 3576
+Launching 5 threads, each one performing 1000 increments
+final value = 3623
+Launching 5 threads, each one performing 1000 increments
+final value = 3508
+Launching 5 threads, each one performing 1000 increments
+final value = 3641
+Launching 5 threads, each one performing 1000 increments
+final value = 3642
+Launching 5 threads, each one performing 1000 increments
+final value = 3587
+Launching 5 threads, each one performing 1000 increments
+final value = 3609
+Launching 5 threads, each one performing 1000 increments
+final value = 3554
+Launching 5 threads, each one performing 1000 increments
+final value = 3511
+Launching 5 threads, each one performing 1000 increments
+final value = 3599
+Launching 5 threads, each one performing 1000 increments
+final value = 3569
+Launching 5 threads, each one performing 1000 increments
+final value = 3607
+Launching 5 threads, each one performing 1000 increments
+final value = 3532
+Launching 5 threads, each one performing 1000 increments
+final value = 3624
+Launching 5 threads, each one performing 1000 increments
+final value = 3586
+Launching 5 threads, each one performing 1000 increments
+final value = 3543
+Launching 5 threads, each one performing 1000 increments
+final value = 3611
+Launching 5 threads, each one performing 1000 increments
+final value = 3541
+Launching 5 threads, each one performing 1000 increments
+final value = 3582
+Launching 5 threads, each one performing 1000 increments
+final value = 3638
+Launching 5 threads, each one performing 1000 increments
+final value = 3519
+Launching 5 threads, each one performing 1000 increments
+final value = 3577
+Launching 5 threads, each one performing 1000 increments
+final value = 3627
+Launching 5 threads, each one performing 1000 increments
+final value = 3467
+Launching 5 threads, each one performing 1000 increments
+final value = 3661
+Launching 5 threads, each one performing 1000 increments
+final value = 3598
+Launching 5 threads, each one performing 1000 increments
+final value = 3541
+Launching 5 threads, each one performing 1000 increments
+final value = 3627
+Launching 5 threads, each one performing 1000 increments
+final value = 3593
+Launching 5 threads, each one performing 1000 increments
+final value = 3641
+Launching 5 threads, each one performing 1000 increments
+final value = 3602
+Launching 5 threads, each one performing 1000 increments
+final value = 3630
+Launching 5 threads, each one performing 1000 increments
+final value = 3578
+Launching 5 threads, each one performing 1000 increments
+final value = 3507
+Launching 5 threads, each one performing 1000 increments
+final value = 3610
+Launching 5 threads, each one performing 1000 increments
+final value = 3664
+Launching 5 threads, each one performing 1000 increments
+final value = 3571
+Launching 5 threads, each one performing 1000 increments
+final value = 3588
+Launching 5 threads, each one performing 1000 increments
+final value = 3668
+Launching 5 threads, each one performing 1000 increments
+final value = 3586
+Launching 5 threads, each one performing 1000 increments
+final value = 3662
+Launching 5 threads, each one performing 1000 increments
+final value = 3566
+Launching 5 threads, each one performing 1000 increments
+final value = 3568
+Launching 5 threads, each one performing 1000 increments
+final value = 3666
+Launching 5 threads, each one performing 1000 increments
+final value = 3588
+Launching 5 threads, each one performing 1000 increments
+final value = 3544
+Launching 5 threads, each one performing 1000 increments
+final value = 3710
+Launching 5 threads, each one performing 1000 increments
+final value = 3559
+Launching 5 threads, each one performing 1000 increments
+final value = 3593
+Launching 5 threads, each one performing 1000 increments
+final value = 3657
+Launching 5 threads, each one performing 1000 increments
+final value = 3501
+Launching 5 threads, each one performing 1000 increments
+final value = 3614
+Launching 5 threads, each one performing 1000 increments
+final value = 3671
+Launching 5 threads, each one performing 1000 increments
+final value = 3633
+Launching 5 threads, each one performing 1000 increments
+final value = 3665
+Launching 5 threads, each one performing 1000 increments
+final value = 3595

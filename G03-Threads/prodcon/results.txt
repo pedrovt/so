@@ -1,0 +1,98 @@
+Launching 4 consumer threads, each performing 10 iterations
+Launching 4 producer threads, each performing 10 iterations
+[34;01mThe value 00000 was produced by thread P0 and consumed by thread C0![0m
+[31;01mThe value 00003 was produced by thread P2 and consumed by thread C1![0m
+[31;01mThe value 99999999 was produced by thread P1 and consumed by thread C3![0m
+[31;01mThe value 99999999 was produced by thread P3 and consumed by thread C2![0m
+[32;01mThe value 00001 was produced by thread P1![0m
+[32;01mThe value 00000 was produced by thread P0![0m
+[32;01mThe value 00002 was produced by thread P2![0m
+[32;01mThe value 00003 was produced by thread P3![0m
+[34;01mThe value 10001 was produced by thread P1 and consumed by thread C0![0m
+[34;01mThe value 10002 was produced by thread P2 and consumed by thread C2![0m
+[31;01mThe value 99999999 was produced by thread P0 and consumed by thread C3![0m
+[34;01mThe value 10003 was produced by thread P3 and consumed by thread C1![0m
+[32;01mThe value 10001 was produced by thread P1![0m
+[32;01mThe value 10003 was produced by thread P3![0m
+[32;01mThe value 10002 was produced by thread P2![0m
+[32;01mThe value 10000 was produced by thread P0![0m
+[34;01mThe value 20001 was produced by thread P1 and consumed by thread C0![0m
+[31;01mThe value 20002 was produced by thread P3 and consumed by thread C3![0m
+[31;01mThe value 99999999 was produced by thread P2 and consumed by thread C1![0m
+[34;01mThe value 20000 was produced by thread P0 and consumed by thread C2![0m
+[32;01mThe value 20001 was produced by thread P1![0m
+[32;01mThe value 20000 was produced by thread P0![0m
+[32;01mThe value 20002 was produced by thread P2![0m
+[32;01mThe value 20003 was produced by thread P3![0m
+[34;01mThe value 30001 was produced by thread P1 and consumed by thread C0![0m
+[34;01mThe value 30000 was produced by thread P0 and consumed by thread C2![0m
+[31;01mThe value 30003 was produced by thread P2 and consumed by thread C3![0m
+[31;01mThe value 99999999 was produced by thread P3 and consumed by thread C1![0m
+[32;01mThe value 30001 was produced by thread P1![0m
+[32;01mThe value 30000 was produced by thread P0![0m
+[32;01mThe value 30003 was produced by thread P3![0m
+[32;01mThe value 30002 was produced by thread P2![0m
+[34;01mThe value 40001 was produced by thread P1 and consumed by thread C0![0m
+[34;01mThe value 40000 was produced by thread P0 and consumed by thread C2![0m
+[34;01mThe value 40003 was produced by thread P3 and consumed by thread C3![0m
+[32;01mThe value 40001 was produced by thread P1![0m
+[34;01mThe value 40002 was produced by thread P2 and consumed by thread C1![0m
+[32;01mThe value 40002 was produced by thread P2![0m
+[32;01mThe value 40000 was produced by thread P0![0m
+[32;01mThe value 40003 was produced by thread P3![0m
+[34;01mThe value 50001 was produced by thread P1 and consumed by thread C0![0m
+[32;01mThe value 50001 was produced by thread P1![0m
+[34;01mThe value 50002 was produced by thread P2 and consumed by thread C3![0m
+[34;01mThe value 50000 was produced by thread P0 and consumed by thread C2![0m
+[34;01mThe value 50003 was produced by thread P3 and consumed by thread C1![0m
+[32;01mThe value 50002 was produced by thread P2![0m
+[32;01mThe value 50003 was produced by thread P3![0m
+[32;01mThe value 50000 was produced by thread P0![0m
+[34;01mThe value 60001 was produced by thread P1 and consumed by thread C0![0m
+[32;01mThe value 60001 was produced by thread P1![0m
+[34;01mThe value 60002 was produced by thread P2 and consumed by thread C3![0m
+[34;01mThe value 60003 was produced by thread P3 and consumed by thread C2![0m
+[34;01mThe value 60000 was produced by thread P0 and consumed by thread C1![0m
+[32;01mThe value 60002 was produced by thread P2![0m
+[32;01mThe value 60000 was produced by thread P0![0m
+[32;01mThe value 60003 was produced by thread P3![0m
+[34;01mThe value 70001 was produced by thread P1 and consumed by thread C0![0m
+[32;01mThe value 70001 was produced by thread P1![0m
+[34;01mThe value 70002 was produced by thread P2 and consumed by thread C3![0m
+[34;01mThe value 70000 was produced by thread P0 and consumed by thread C2![0m
+[34;01mThe value 70003 was produced by thread P3 and consumed by thread C1![0m
+[32;01mThe value 70000 was produced by thread P0![0m
+[32;01mThe value 70002 was produced by thread P2![0m
+[34;01mThe value 80001 was produced by thread P1 and consumed by thread C0![0m
+[32;01mThe value 70003 was produced by thread P3![0m
+[34;01mThe value 80000 was produced by thread P0 and consumed by thread C3![0m
+[32;01mThe value 80001 was produced by thread P1![0m
+[34;01mThe value 80002 was produced by thread P2 and consumed by thread C2![0m
+[32;01mThe value 80002 was produced by thread P2![0m
+[32;01mThe value 80000 was produced by thread P0![0m
+[34;01mThe value 80003 was produced by thread P3 and consumed by thread C0![0m
+Consumer 0 is quiting
+[34;01mThe value 90001 was produced by thread P1 and consumed by thread C1![0m
+[34;01mThe value 90002 was produced by thread P2 and consumed by thread C3![0m
+Consumer 3 is quiting
+[32;01mThe value 80003 was produced by thread P3![0m
+[32;01mThe value 90001 was produced by thread P1![0m
+Producer 1 is quiting
+[34;01mThe value 90000 was produced by thread P0 and consumed by thread C2![0m
+Consumer 2 is quiting
+[32;01mThe value 90002 was produced by thread P2![0m
+Producer 2 is quiting
+[34;01mThe value 90003 was produced by thread P3 and consumed by thread C1![0m
+Consumer 1 is quiting
+[32;01mThe value 90000 was produced by thread P0![0m
+Producer 0 is quiting
+Producer thread 0 has terminated
+Producer thread 1 has terminated
+Producer thread 2 has terminated
+[32;01mThe value 90003 was produced by thread P3![0m
+Producer 3 is quiting
+Producer thread 3 has terminated
+Consumer thread 0 has terminated
+Consumer thread 1 has terminated
+Consumer thread 2 has terminated
+Consumer thread 3 has terminated

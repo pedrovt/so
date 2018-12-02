@@ -1,0 +1,5 @@
+Launching 1000 threads, each one performing 1000 increments final value = 325665  
+real    0m59.627s 
+user    7m36.016s 
+sys     0m0.359s
+

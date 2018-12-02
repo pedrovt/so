@@ -1,0 +1,8 @@
+Programação concorrente
+- threads: fio de execução associado a um programa. Partilha o espaço de endereçamento do processo.
+- exclusão mútua (mutex)
+    -> busy waiting (sempre a tentar)
+    -> cooperação mútua c/ variaveis de condição: para uma thread ficar à espera de outras condições
+        : espera
+        : notificação
+    
