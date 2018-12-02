@@ -1,0 +1,182 @@
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+[34;01mThe value 00003 was produced by process P3 and consumed by process C3![0m
+[34;01mThe value 10001 was produced by process P1 and consumed by process C3![0m
+[34;01mThe value 20004 was produced by process P4 and consumed by process C3![0m
+[34;01mThe value 30004 was produced by process P4 and consumed by process C3![0m
+[34;01mThe value 40003 was produced by process P3 and consumed by process C3![0m
+[34;01mThe value 50005 was produced by process P5 and consumed by process C3![0m
+[34;01mThe value 60002 was produced by process P2 and consumed by process C3![0m
+[34;01mThe value 70002 was produced by process P2 and consumed by process C3![0m
+[34;01mThe value 80005 was produced by process P5 and consumed by process C3![0m
+[34;01mThe value 90001 was produced by process P1 and consumed by process C3![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+[32;01mThe value 00001 was produced by process P1![0m
+[32;01mThe value 10001 was produced by process P1![0m
+[32;01mThe value 20001 was produced by process P1![0m
+[32;01mThe value 30001 was produced by process P1![0m
+[32;01mThe value 40001 was produced by process P1![0m
+[32;01mThe value 50001 was produced by process P1![0m
+[32;01mThe value 60001 was produced by process P1![0m
+[32;01mThe value 70001 was produced by process P1![0m
+[32;01mThe value 80001 was produced by process P1![0m
+[32;01mThe value 90001 was produced by process P1![0m
+Launching 5 consumer processes, each performing 10 iterations
+[34;01mThe value 00002 was produced by process P2 and consumed by process C1![0m
+[34;01mThe value 10003 was produced by process P3 and consumed by process C1![0m
+[34;01mThe value 20001 was produced by process P1 and consumed by process C1![0m
+[34;01mThe value 30001 was produced by process P1 and consumed by process C1![0m
+[34;01mThe value 40002 was produced by process P2 and consumed by process C1![0m
+[34;01mThe value 50003 was produced by process P3 and consumed by process C1![0m
+[34;01mThe value 60003 was produced by process P3 and consumed by process C1![0m
+[34;01mThe value 70004 was produced by process P4 and consumed by process C1![0m
+[34;01mThe value 80003 was produced by process P3 and consumed by process C1![0m
+[34;01mThe value 90002 was produced by process P2 and consumed by process C1![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+- Producer process 0 was launched
+[32;01mThe value 00002 was produced by process P2![0m
+[32;01mThe value 10002 was produced by process P2![0m
+[32;01mThe value 20002 was produced by process P2![0m
+[32;01mThe value 30002 was produced by process P2![0m
+[32;01mThe value 40002 was produced by process P2![0m
+[32;01mThe value 50002 was produced by process P2![0m
+[32;01mThe value 60002 was produced by process P2![0m
+[32;01mThe value 70002 was produced by process P2![0m
+[32;01mThe value 80002 was produced by process P2![0m
+[32;01mThe value 90002 was produced by process P2![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+[34;01mThe value 00005 was produced by process P5 and consumed by process C5![0m
+[34;01mThe value 10002 was produced by process P2 and consumed by process C5![0m
+[34;01mThe value 20005 was produced by process P5 and consumed by process C5![0m
+[34;01mThe value 30003 was produced by process P3 and consumed by process C5![0m
+[34;01mThe value 40004 was produced by process P4 and consumed by process C5![0m
+[34;01mThe value 50001 was produced by process P1 and consumed by process C5![0m
+[34;01mThe value 60004 was produced by process P4 and consumed by process C5![0m
+[34;01mThe value 70003 was produced by process P3 and consumed by process C5![0m
+[34;01mThe value 80004 was produced by process P4 and consumed by process C5![0m
+[34;01mThe value 90003 was produced by process P3 and consumed by process C5![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+[34;01mThe value 00001 was produced by process P1 and consumed by process C4![0m
+[34;01mThe value 10004 was produced by process P4 and consumed by process C4![0m
+[34;01mThe value 20002 was produced by process P2 and consumed by process C4![0m
+[34;01mThe value 30005 was produced by process P5 and consumed by process C4![0m
+[34;01mThe value 40001 was produced by process P1 and consumed by process C4![0m
+[34;01mThe value 50002 was produced by process P2 and consumed by process C4![0m
+[34;01mThe value 60001 was produced by process P1 and consumed by process C4![0m
+[34;01mThe value 70005 was produced by process P5 and consumed by process C4![0m
+[34;01mThe value 80001 was produced by process P1 and consumed by process C4![0m
+[34;01mThe value 90005 was produced by process P5 and consumed by process C4![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+[34;01mThe value 00004 was produced by process P4 and consumed by process C2![0m
+[34;01mThe value 10005 was produced by process P5 and consumed by process C2![0m
+[34;01mThe value 20003 was produced by process P3 and consumed by process C2![0m
+[34;01mThe value 30002 was produced by process P2 and consumed by process C2![0m
+[34;01mThe value 40005 was produced by process P5 and consumed by process C2![0m
+[34;01mThe value 50004 was produced by process P4 and consumed by process C2![0m
+[34;01mThe value 60005 was produced by process P5 and consumed by process C2![0m
+[34;01mThe value 70001 was produced by process P1 and consumed by process C2![0m
+[34;01mThe value 80002 was produced by process P2 and consumed by process C2![0m
+[34;01mThe value 90004 was produced by process P4 and consumed by process C2![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+- Producer process 0 was launched
+- Producer process 1 was launched
+- Producer process 2 was launched
+[32;01mThe value 00004 was produced by process P4![0m
+[32;01mThe value 10004 was produced by process P4![0m
+[32;01mThe value 20004 was produced by process P4![0m
+[32;01mThe value 30004 was produced by process P4![0m
+[32;01mThe value 40004 was produced by process P4![0m
+[32;01mThe value 50004 was produced by process P4![0m
+[32;01mThe value 60004 was produced by process P4![0m
+[32;01mThe value 70004 was produced by process P4![0m
+[32;01mThe value 80004 was produced by process P4![0m
+[32;01mThe value 90004 was produced by process P4![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+- Producer process 0 was launched
+- Producer process 1 was launched
+- Producer process 2 was launched
+- Producer process 3 was launched
+[32;01mThe value 00005 was produced by process P5![0m
+[32;01mThe value 10005 was produced by process P5![0m
+[32;01mThe value 20005 was produced by process P5![0m
+[32;01mThe value 30005 was produced by process P5![0m
+[32;01mThe value 40005 was produced by process P5![0m
+[32;01mThe value 50005 was produced by process P5![0m
+[32;01mThe value 60005 was produced by process P5![0m
+[32;01mThe value 70005 was produced by process P5![0m
+[32;01mThe value 80005 was produced by process P5![0m
+[32;01mThe value 90005 was produced by process P5![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+- Producer process 0 was launched
+- Producer process 1 was launched
+[32;01mThe value 00003 was produced by process P3![0m
+[32;01mThe value 10003 was produced by process P3![0m
+[32;01mThe value 20003 was produced by process P3![0m
+[32;01mThe value 30003 was produced by process P3![0m
+[32;01mThe value 40003 was produced by process P3![0m
+[32;01mThe value 50003 was produced by process P3![0m
+[32;01mThe value 60003 was produced by process P3![0m
+[32;01mThe value 70003 was produced by process P3![0m
+[32;01mThe value 80003 was produced by process P3![0m
+[32;01mThe value 90003 was produced by process P3![0m
+Launching 5 consumer processes, each performing 10 iterations
+- Consumer process 0 was launched
+- Consumer process 1 was launched
+- Consumer process 2 was launched
+- Consumer process 3 was launched
+- Consumer process 4 was launched
+Launching 5 producer processes, each performing 10 iterations
+- Producer process 0 was launched
+- Producer process 1 was launched
+- Producer process 2 was launched
+- Producer process 3 was launched
+- Producer process 4 was launched
+Producer 0 (process 14636) has terminated
+Producer 1 (process 14637) has terminated
+Producer 2 (process 14638) has terminated
+Producer 3 (process 14639) has terminated
+Producer 4 (process 14640) has terminated
+Consumer 0 (process 14631) has terminated
+Consumer 1 (process 14632) has terminated
+Consumer 2 (process 14633) has terminated
+Consumer 3 (process 14634) has terminated
+Consumer 4 (process 14635) has terminated
